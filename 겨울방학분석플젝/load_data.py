@@ -7,11 +7,7 @@ df = pd.read_excel(file_path)
 # print(df.head())
 # print(df.info())
 
-file_path = "겨울방학분석플젝/utils/편입편출_16to20.csv"
-df_transfer1 = pd.read_csv(file_path)
+file_path = "겨울방학분석플젝/utils/편입편출.csv"
+df_transfer = pd.read_csv(file_path)
 
-file_path = "겨울방학분석플젝/utils/편입편출_20to25.csv"
-df_transfer2 = pd.read_csv(file_path)
-
-print(df_transfer1)
-print(df_transfer2)
+print(df_transfer)
