@@ -101,16 +101,50 @@ print(monthly_df.isnull().sum())
 # print("\nCSV 저장 완료:")
 # print("- 겨울방학분석플젝/preprocessing/bookvalue.csv")
 
-# 2. 제외 키워드 설정
-exclude_keywords = [
-    '리츠', 'REITs', '지주', '홀딩스', '금융', 
-    '증권', '보험', '화재', '은행', '카드', '생명'
-]
 
-# 3. 제외 로직 적용
-# 종목명에 위 키워드가 하나라도 포함되면 제외
-filtered_df = df[~df['name'].str.contains('|'.join(exclude_keywords))]
 
-print(f"제외 전: {len(df)}개")
-print(f"제외 후: {len(filtered_df)}개")
-print(f"제거된 종목 수: {len(df) - len(filtered_df)}개")
+'''
+# 1. monthly_df에서 결측치가 발생한 데이터만 추출
+nan_analysis = monthly_df[monthly_df['bookvalue'].isna()].copy()
+
+# 2. 종목명 정보가 유실되었을 수 있으므로 다시 매칭 (확인용)
+name_map = filtered_df[['종목코드', '종목명']].drop_duplicates()
+nan_analysis = nan_analysis.merge(name_map, left_on='ticker', right_on='종목코드', how='left')
+
+# 3. 종목별/연도별 결측치 빈도 계산
+# (특정 종목이 특정 연도 구간에서 통째로 빠졌는지 확인)
+nan_summary = nan_analysis.groupby(['ticker', '종목명', 'bv_year']).size().reset_index(name='missing_months')
+
+print("\n" + "="*50)
+print("     [결측치 발생 종목 TOP 20 분석]     ")
+print("="*50)
+# 결측 월수가 많은 순(최대 12개월)으로 출력
+print(nan_summary.sort_values(by='missing_months', ascending=False).head(20))
+
+# 4. 결측 원인 판별 함수
+def diagnose_nan(row):
+    ticker = row['ticker']
+    bv_year = int(row['bv_year'])
+    
+    # 해당 연도-티커 조합이 merged_df에 있는지 확인
+    match = merged_df[(merged_df['ticker'] == ticker) & (merged_df['year'] == bv_year)]
+    
+    if match.empty:
+        return "Merge Miss (BPS 원본에 종목 없음 - 신규상장/리츠 등)"
+    elif pd.isna(match['bookvalue'].values[0]):
+        return "Value NaN (원본에 종목은 있으나 BPS값이 NaN)"
+    else:
+        return "Unknown (로직 확인 필요)"
+
+# TOP 10 종목에 대해 구체적 원인 진단
+print("\n" + "-"*50)
+print("     [상위 10개 결측 종목 상세 진단]     ")
+print("-"*50)
+top_nan_list = nan_summary.sort_values(by='missing_months', ascending=False).head(10)
+top_nan_list['diagnosis'] = top_nan_list.apply(diagnose_nan, axis=1)
+print(top_nan_list[['ticker', '종목명', 'bv_year', 'missing_months', 'diagnosis']])
+
+# 5. (선택) 특정 종목명이 포함된 결측치만 따로 보기 (예: 리츠)
+reits_nan = nan_summary[nan_summary['종목명'].str.contains('리츠', na=False)]
+print(f"\n* 결측치 중 '리츠' 포함 종목 수: {reits_nan['ticker'].nunique()}개")
+'''
