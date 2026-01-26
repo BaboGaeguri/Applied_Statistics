@@ -11,6 +11,7 @@ def get_kospi_data(beginBasDt, endBasDt):
 
     all_items = []
     page_no = 1
+    df = None  # 초기화
 
     while True:
         params = {
@@ -60,9 +61,35 @@ def get_kospi_data(beginBasDt, endBasDt):
     return df
 
 if __name__ == "__main__":
-    df = get_kospi_data(20240101, 20241231)
+    '''
+    df = get_kospi_data(20190101, 20191231)
 
-    print(df.head())
-    print(df.info())
+    if df is not None:
+        print(df.head())
+        print(df.info())
+    else:
+        print("데이터를 가져오지 못했습니다.")
+    '''
 
 
+
+url = "https://apis.data.go.kr/1160100/service/GetStockSecuritiesInfoService/getStockPriceInfo"
+
+load_dotenv()
+api_key = os.getenv('API_KEY')
+
+params = {
+            "serviceKey": api_key,
+            "numOfRows": "10000",
+            "pageNo": "1",
+            "resultType": "json",
+            "beginBasDt": "20190101",
+            "endBasDt": "20190131",
+            "mrktCls": "KOSPI"
+        }
+
+response = requests.get(url, params=params)
+response.raise_for_status()
+data = response.json()
+
+print(data)
