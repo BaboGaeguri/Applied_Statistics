@@ -1,0 +1,896 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 3분기말	전기말	전전기말	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	143,723,222,275	244,309,462,783	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	12,065,508,966,519	11,129,301,411,583	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	44,888,474,963	62,464,550,609	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	348,971,020,972	288,473,994,776	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	8,005,197,899,970	7,073,700,413,243	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	3,091,730,582,404	2,974,688,004,473	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	28,171,824,885	29,934,908,451	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	201,176,131,481	201,370,466,385	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         종속기업투자주식	134,292,781,965	186,080,172,598	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	41,189,717,174	41,218,132,221	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	26,167,310,430	27,061,306,044	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-104,207,937,500	-104,047,417,500	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	154,491,703,941	154,491,703,941	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	0	39,839,480,000	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-1,304,005,337,335	-1,069,073,152,594	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	994,804,957,106	1,118,819,766,942	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	253,333,575,000	253,333,575,000	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	1,995,192,953,000	1,844,275,578,095	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	12,065,508,966,519	11,129,301,411,583	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	299,011,397,513	0	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	51,736,500,175	75,336,067,713	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	245,623,677,942	294,819,990,838	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	13,145,906	153,890,772	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	9,451,759,690,398	8,695,421,576,985	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	800,744,647,993	786,320,397,426	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	11,070,704,009,413	10,010,481,644,641	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	166,482,667,508	109,208,579,683	
+ 재무상태표, 보험 - 별도	[null]	DB생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	55,332,281,978	49,221,141,224	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	57,423,593,000,000	52,858,940,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	556,740,000,000	597,329,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	161,387,000,000	149,469,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	            위험회피목적파생상품자산	161,387,000,000	149,469,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	15,409,837,000,000	13,869,535,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	20,703,906,000,000	22,226,036,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	15,785,981,000,000	11,418,284,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	717,708,000,000	693,051,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	73,703,000,000	85,256,000,000	93,270,000,000
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	750,008,000,000	750,556,000,000	755,241,000,000
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자자산	1,058,977,000,000	1,019,191,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	74,917,000,000	64,352,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	508,407,000,000	485,813,000,000	451,019,000,000
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	31,632,000,000	48,479,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,590,390,000,000	1,451,589,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-152,492,000,000	-152,492,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	37,913,000,000	37,913,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	865,006,000,000	0	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-2,440,625,000,000	-1,609,455,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	9,239,269,000,000	8,415,999,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	35,400,000,000	35,400,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	10,894,067,000,000	10,104,633,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               (비상위험준비금 적립예정액)	107,234,000,000	140,167,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               (대손준비금 적립액)	49,766,000,000	120,887,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               (대손준비금 적립예정액)	52,877,000,000	-71,121,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               (해약환급금준비금 적립액)	3,239,227,000,000	2,645,780,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               (해약환급금준비금 적립예정액)	866,077,000,000	593,447,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               (비상위험준비금 적립액)	1,655,220,000,000	1,515,054,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	57,423,593,000,000	52,858,940,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	1,466,275,000,000	667,914,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	50,069,000,000	238,883,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	887,792,000,000	888,588,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	662,359,000,000	651,255,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	               위험회피목적파생상품부채	662,359,000,000	651,255,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	33,463,246,000,000	31,937,301,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	10,830,998,000,000	9,134,933,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	38,325,000,000	34,458,000,000	26,191,000,000
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	48,184,324,000,000	44,442,941,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	604,371,000,000	685,731,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	180,889,000,000	203,213,000,000	
+ 재무상태표, 보험 - 별도	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	0	665,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	6,977,092,000,000	5,921,247,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타수취채권	472,205,000,000	969,596,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	20,000,000,000	20,000,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	43,453,891,000,000	40,710,844,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	775,818,000,000	820,370,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	164,012,000,000	194,807,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	21,970,334,000,000	20,523,003,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	9,882,040,000,000	9,431,766,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	362,133,000,000	276,191,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	108,349,000,000	126,529,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	11,084,000,000	10,321,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계및종속기업투자주식	496,364,000,000	448,957,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	127,951,000,000	11,459,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	467,724,000,000	454,106,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	68,985,000,000	70,656,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,549,800,000,000	1,431,836,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	348,454,000,000	348,454,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-1,322,961,000,000	-684,025,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	5,693,753,000,000	5,856,441,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	33,250,000,000	33,250,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	6,635,010,000,000	6,158,762,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립(환입)예정액	77,551,000,000	59,296,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	34,085,000,000	19,918,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	-2,298,000,000	14,167,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	2,838,012,000,000	2,792,853,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립예정액	649,830,000,000	45,159,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	1,194,613,000,000	1,135,317,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	43,453,891,000,000	40,710,844,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BondsIssued	            사채	1,263,123,000,000	664,309,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	942,913,000,000	943,686,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	259,394,000,000	401,048,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	202,000,000	7,377,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	27,621,275,000,000	26,451,376,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	37,760,138,000,000	34,854,403,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            상각후원가측정기타금융부채	7,467,050,000,000	5,948,015,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	167,092,000,000	412,752,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	3,765,000,000	3,862,000,000	
+ 재무상태표, 보험 - 별도	[002550]	KB손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	35,324,000,000	21,978,000,000	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	554,113,703,323	782,302,899,689	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	2,040,464,372,078	2,128,435,045,306	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정수취채권	232,325,094,377	212,906,945,507	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	13,008,762,895,413	12,152,807,774,446	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	7,590,885,342	6,844,433,345	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	119,990,966,404	169,293,951,764	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익인식-공정가치측정 금융자산	5,840,367,811,913	4,728,462,484,104	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익인식-공정가치측정 금융자산	2,526,294,704,817	2,660,956,069,088	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	27,673,980	18,321,407	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	44,109,822,312	48,647,552,249	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	10,149,736,948	292,160,359	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	27,629,165,803	30,576,809,705	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,600,891,288,986	1,374,828,703,913	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	4,807,669,130	9,242,398,010	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	558,967,283,486	558,967,283,486	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	449,965,610,000	449,965,610,000	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-524,249,158,551	-261,712,917,207	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	1,716,449,529,458	1,876,038,702,336	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	100,912,500,000	100,912,500,000	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	1,130,853,294,523	1,027,906,226,057	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	13,008,762,895,413	12,152,807,774,446	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	299,241,201,184	99,781,382,696	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	79,002,834,367	138,675,462,583	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	87,399,416,480	81,731,306,782	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	10,625,447,305,259	9,765,129,942,614	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	4,918,062,750	9,228,215,494	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	11,292,313,365,955	10,276,769,072,110	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	118,245,090,381	74,415,618,682	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	39,906,521,544	75,467,328,601	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	13,537,206,632	13,804,940,578	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	20,065,717,341	12,547,212,099	
+ 재무상태표, 보험 - 별도	[null]	NH농협손해보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	4,550,010,017	5,987,661,981	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	3,003,654,986,557	3,501,249,993,037	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	18,677,374,768,524	19,081,019,622,872	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타금융자산	1,277,827,449,933	1,000,590,832,470	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	1,118,562,108,733	1,213,149,160,928	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	128,834,955,558,457	122,408,983,045,999	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	184,029,821,365	165,466,362,986	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	1,445,354,539,310	1,426,456,740,781	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	468,901,510,624	597,559,945,036	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	62,288,665,739,015	58,025,921,849,151	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	34,613,499,508,074	32,211,658,924,788	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	59,747,508,158	52,532,540,502	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	1,143,471,863,396	1,149,053,680,323	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자	3,500,217,621,002	2,910,745,314,498	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	25,356,403,715	16,425,902,296	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	850,483,729,144	863,882,978,325	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	177,808,000,907	193,269,198,006	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-197,234,758,164	-197,414,736,484	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	365,966,306,274	365,936,339,794	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	2,205,726,208,213	2,205,726,208,213	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-2,988,311,663,637	-2,205,732,209,538	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	7,163,181,644,252	7,305,017,718,577	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	102,500,000,000	102,500,000,000	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	7,674,535,551,566	7,034,002,116,592	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         부채와 자본총계	128,834,955,558,457	122,408,983,045,999	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            기타계약부채	146,369,966,128	171,692,453,763	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	698,202,859,709	698,079,778,815	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	1,776,299,900,332	2,462,070,231,543	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	100,053,052,334,892	94,441,284,045,036	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	17,713,282,604,106	16,000,079,179,581	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	121,671,773,914,205	115,103,965,327,422	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	840,345,409,030	919,867,524,008	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	68,619,915,443	80,956,755,099	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	60,839,888,099	30,140,351,489	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	63,238,788,561	26,986,797,745	
+ 재무상태표, 보험 - 별도	[null]	교보생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	251,522,247,905	272,808,210,343	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	264,026,749,582	248,448,399,463	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	8,667,418,140,930	9,668,339,708,354	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00909349_LoansandotherfinancialamortariesOfAssetsAbstract	         상각후원가측정대출채권및수취채권	6,643,481,780,563	6,547,111,663,691	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	53,750,882,314,697	53,253,635,524,638	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	92,412,738,622	132,470,729,213	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	45,102,618,237	41,839,444,658	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	31,620,817,570,888	29,467,352,965,036	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	5,841,451,338,579	6,605,557,328,864	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	21,759,552,865	26,733,654,113	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	211,088,248,875	210,464,739,466	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	38,174,841,682	1,393,484,275	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	297,064,299,430	300,887,785,099	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	8,084,434,444	3,035,622,406	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	499,932,100,000	499,932,100,000	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-2,159,680,686,761	-2,110,749,758,458	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AdditionalPaidinCapital	            기타불입자본	3,293,968,737,406	3,293,968,737,406	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	5,012,221,574,155	4,873,141,655,263	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	698,968,750,000	698,968,750,000	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	2,679,032,673,510	2,491,021,826,315	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	53,750,882,314,697	53,253,635,524,638	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-61,123,217,061	-41,029,140,662	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	1,108,376,967,121	1,108,167,241,286	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	120,625,520,416	75,308,263,366	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	621,437,947,993	858,260,990,819	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	46,669,695,924,659	46,128,470,206,775	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	48,738,660,740,542	48,380,493,869,375	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	95,926,293,449	90,823,541,075	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	19,246,128,107	23,929,826,496	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	40,995,147,321	42,518,843,703	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	50,297,622,867	26,575,424,381	
+ 재무상태표, 보험 - 별도	[null]	농협생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	73,182,405,670	67,468,672,136	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	35,727,983,000,000	34,577,575,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	277,704,000,000	257,345,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	66,818,000,000	90,363,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	277,794,000,000	190,145,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	80,658,000,000	92,073,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	5,574,981,000,000	7,063,305,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	22,988,363,000,000	20,037,393,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	5,507,528,000,000	5,857,336,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsOtherThanGoodwill	         무형자산	28,459,000,000	18,346,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	316,452,000,000	315,291,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInAssociates	         관계기업투자자산	0	51,643,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiaries	         종속기업투자자산	70,000,000,000	70,000,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         그밖의기타자산	4,812,000,000	7,062,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	69,738,000,000	78,146,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	464,676,000,000	449,127,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-117,991,000,000	-60,260,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	463,680,000,000	463,680,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	0	344,567,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-1,415,498,000,000	-1,105,739,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	1,388,778,000,000	2,010,539,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	806,793,000,000	806,793,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	1,651,794,000,000	1,561,498,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	35,727,983,000,000	34,577,575,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	1,347,000,000	3,145,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	316,212,000,000	424,942,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	1,086,878,000,000	361,806,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	36,000,000	432,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	29,392,006,000,000	28,221,456,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	3,460,587,000,000	3,469,088,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	34,339,205,000,000	32,567,036,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            그밖의기타부채	5,985,000,000	40,097,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	41,736,000,000	18,933,000,000	18,090,000,000
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	23,835,000,000	16,001,000,000	
+ 재무상태표, 보험 - 별도	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	10,583,000,000	11,136,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자 산 총 계	14,883,495,000,000	15,541,478,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	563,509,000,000	800,910,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	31,416,000,000	28,909,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	205,553,000,000	135,115,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	168,162,000,000	217,137,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	            위험회피목적 파생상품자산	167,963,000,000	217,137,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForTrading	            매매목적 파생상품자산	199,000,000	0	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	2,573,597,000,000	2,500,707,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	            상각후원가측정대출채권	1,796,747,000,000	1,642,908,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	            상각후원가측정기타금융자산	353,384,000,000	364,181,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	            상각후원가측정유가증권	423,466,000,000	493,618,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	6,942,561,000,000	6,593,341,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	3,804,184,000,000	4,679,994,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	174,094,000,000	146,609,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	51,787,000,000	53,282,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentAccountedForUsingEquityMethod	         관계기업투자자산	8,969,000,000	9,354,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	453,000,000	459,000,000	466,000,000
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	8,162,000,000	2,881,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	17,666,000,000	20,821,000,000	21,955,000,000
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	2,031,000,000	4,223,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	294,776,000,000	306,128,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	36,575,000,000	41,608,000,000	42,930,000,000
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-720,000,000	-720,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	379,817,000,000	379,817,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	45,370,000,000	45,370,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-613,716,000,000	-313,724,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자 본 총 계	590,893,000,000	794,239,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	310,336,000,000	310,336,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	469,806,000,000	373,160,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립(환입)예정액	4,137,000,000	0	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	0	0	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	0	0	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	296,760,000,000	304,012,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립(환입)예정액	92,509,000,000	-7,253,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	75,041,000,000	75,041,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         부 채 및 자 본 총 계	14,883,495,000,000	15,541,478,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	806,622,000,000	806,275,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	186,416,000,000	240,679,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	               위험회피목적 파생상품부채	167,424,000,000	206,528,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForTrading	               매매목적 파생상품부채	18,992,000,000	34,151,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	6,509,224,000,000	6,022,371,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	6,599,258,000,000	7,528,290,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	45,967,000,000	50,713,000,000	51,766,000,000
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부 채 총 계	14,292,602,000,000	14,747,239,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	129,043,000,000	80,867,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	12,819,000,000	16,698,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	1,032,000,000	1,015,000,000	
+ 재무상태표, 보험 - 별도	[000400]	롯데손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	2,221,000,000	331,000,000	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         예치금	178,636,725,402	183,541,595,015	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타금융자산	381,092,057,156	456,092,138,113	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	44,532,796,285,194	43,358,482,458,819	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	653,785,108,282	665,829,240,394	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	385,274,341,136	470,313,098,724	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산-대출채권	587,884,112,636	1,066,670,381,695	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	31,228,382,891,970	31,071,033,527,892	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	8,567,141,443,325	7,043,831,964,924	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	11,449,980,383	13,422,443,806	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	34,514,453,493	34,069,424,121	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	273,871,266,547	301,278,241,785	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자자산-원가법	214,225,010,000	143,704,785,480	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners	         매각예정비유동자산	1,350,716,000	1,350,716,000	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	32,704,659,824	20,878,350,343	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	941,475,975,085	923,251,471,168	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	3,729,333,331	13,667,762,384	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,037,278,210,624	949,547,316,975	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-534,502,565	-534,502,565	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	101,623,120,971	101,623,120,971	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	283,729,680,000	283,729,680,000	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-904,649,531,873	-171,377,796,805	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	5,595,376,126,785	5,740,086,305,047	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	60,312,500,000	60,312,500,000	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	6,054,894,860,252	5,466,333,303,446	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립(환입)예정액	27,158,223,139	31,771,716,796	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	195,650,349,399	60,394,349,736	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	251,728,976,549	135,255,999,663	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	1,793,089,349,103	1,031,254,904,425	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립(환입)예정액	696,917,946,829	761,834,444,678	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	384,383,518,460	352,611,801,664	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	44,532,796,285,194	43,358,482,458,819	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	1,692,172,593,497	1,542,175,256,630	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	113,481,720,981	245,905,252,629	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	301,932,534,431	280,083,445,107	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	161,074,351,726	211,725,928,262	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	185,028,198,831	173,753,257,741	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	1,032,531,287	2,042,529,213	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	25,520,745,511,828	24,357,752,492,165	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	10,274,888,582,311	9,877,036,858,285	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	22,941,144,711	25,309,337,893	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	38,937,420,158,409	37,618,396,153,772	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	639,365,913,853	888,259,364,158	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	12,743,695,518	13,967,269,384	
+ 재무상태표, 보험 - 별도	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	12,013,379,435	385,162,305	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	33,165,463,238,684	32,404,438,804,746	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	844,622,819,485	921,939,699,519	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	67,433,069,368	77,265,029,054	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	141,191,890,055	238,178,210,906	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	            위험회피목적파생상품자산	139,523,971,387	238,178,210,906	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForTrading	            단기매매 파생금융자산	1,667,918,668	0	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	2,883,514,038,402	3,499,463,445,690	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	            상각후원가측정대출채권	2,050,706,234,713	2,704,552,735,036	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	            상각후원가측정기타금융자산	832,807,803,689	794,910,710,654	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	12,326,566,814,335	11,969,183,336,759	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권	12,326,566,814,335	11,969,183,336,759	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	16,558,856,627,634	15,392,284,369,489	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정기타금융자산	46,833,561,631	45,322,973,613	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정유가증권	16,512,023,066,003	15,346,961,395,876	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	31,664,801,723	31,396,666,392	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         종속기업, 공동기업과 관계기업에 대한 투자자산	142,042,965,503	142,042,965,503	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	45,375,302,566	7,024,142,579	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	75,147,391,895	77,027,881,524	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	35,615,423,696	29,754,048,650	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	13,432,094,022	18,879,008,681	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-371,175,448,895	-371,175,448,895	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	181,384,483,840	181,384,483,840	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-382,933,654,079	-190,609,909,176	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	2,482,111,427,997	2,553,237,949,768	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	990,714,745,000	990,714,745,000	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	2,064,121,302,131	1,942,924,078,999	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	33,165,463,238,684	32,404,438,804,746	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	59,855	61,159	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	299,489,753,528	499,429,951,306	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BondsIssued	               사채	299,489,753,528	299,429,951,306	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherBorrowings	               기타 차입금(사채 제외)	0	200,000,000,000	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	186,357,964,819	207,351,410,855	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	158,405,159,278	284,038,988,791	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	               위험회피목적파생상품부채	111,556,880,268	170,831,332,218	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForTrading	               단기매매 파생금융부채	46,848,279,010	113,207,656,573	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	27,342,067,893,353	26,248,411,835,353	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	2,211,509,498,561	2,425,557,129,899	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	14,468,780,843	17,769,047,896	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	30,683,351,810,687	29,851,200,854,978	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	455,978,425,987	151,652,427,294	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	2,371,171,701	2,511,749,805	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	12,703,102,762	13,107,425,947	
+ 재무상태표, 보험 - 별도	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	0	1,370,826,673	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	400,000,000,000		
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	295,578,120,000,000	275,321,056,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	1,961,641,000,000	2,555,900,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	433,620,000,000	479,170,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         파생상품자산	839,905,000,000	1,162,355,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	41,744,574,000,000	45,371,811,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익공정가치측정금융자산	183,641,145,000,000	161,933,749,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익공정가치측정금융자산	37,991,991,000,000	35,547,807,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	208,427,000,000	186,942,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	3,236,166,000,000	3,549,899,000,000	3,468,039,000,000
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계ㆍ종속기업투자	22,421,361,000,000	21,523,726,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	57,451,000,000	12,748,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	390,191,000,000	394,245,000,000	395,150,000,000
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	43,893,000,000	49,449,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	2,330,036,000,000	2,302,691,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	277,719,000,000	250,564,000,000	172,652,000,000
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-2,110,369,000,000	-2,110,369,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	6,131,000,000	6,131,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	19,735,638,000,000	13,101,010,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	32,704,476,000,000	25,097,358,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	100,000,000,000	100,000,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	14,973,076,000,000	14,000,586,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	295,578,120,000,000	275,321,056,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	12,754,346,000,000	7,334,006,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	5,541,402,000,000	2,780,563,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            파생상품부채	3,536,035,000,000	4,337,604,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	1,541,738,000,000	1,442,111,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	207,631,921,000,000	202,156,297,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	29,732,877,000,000	30,534,723,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	286,319,000,000	264,774,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	262,873,644,000,000	250,223,698,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	225,744,000,000	212,416,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	574,445,000,000	569,234,000,000	
+ 재무상태표, 보험 - 별도	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	648,817,000,000	591,970,000,000	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	1,642,926,740,707	2,288,264,076,373	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	26,500,437,297,167	26,831,302,703,393	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타수취채권	888,852,878,710	867,787,790,949	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	1,667,856,303,760	1,667,014,328,696	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	88,148,171,915,125	85,223,562,940,379	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	21,067,093,078	0	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	10,733,536,655	13,224,875,668	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	50,915,570,758	57,951,923,059	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	41,218,580,528,380	37,005,933,194,439	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	12,434,155,336,139	12,871,140,409,560	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	752,521	6,525,358	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsOtherThanGoodwill	         무형자산	232,462,206,552	237,066,105,465	257,729,000,000
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	182,180,106,514	186,377,156,630	244,005,000,000
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자	750,158,488,138	750,180,730,392	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	175,067,051,855	110,197,887,235	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	505,239,685,536	527,352,672,404	518,446,000,000
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	52,162,150,861	64,559,514,696	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,698,176,445,544	1,623,558,488,709	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         리스사용권자산	117,199,742,250	121,644,557,353	132,903,000,000
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            연결자본조정	-1,215,419,883,864	-1,483,503,688,276	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            연결자본잉여금	939,233,350,327	939,233,350,327	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            연결기타포괄손익누계액	4,494,421,411,275	2,368,463,818,689	4,343,488,000,000
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	18,106,875,033,878	15,295,837,547,477	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	26,473,418,500	26,473,418,500	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            연결이익잉여금	13,862,166,737,640	13,445,170,648,237	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립예정액	96,985,362,819	171,962,625,172	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	170,245,602,530	169,242,891,881	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	-8,997,608,721	1,002,710,649	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	2,213,099,295,302	1,180,012,136,359	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립예정액	1,455,141,301,178	1,033,087,158,943	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	2,841,360,682,695	2,669,398,057,523	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         부채와자본총계	88,148,171,915,125	85,223,562,940,379	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	0	254,953,414,384	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	3,401,811,029,050	2,253,956,528,106	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	638,986,506,523	891,958,477,447	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	15,035,429,843,597	13,983,410,993,683	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	50,107,799,429,932	51,609,548,606,735	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	111,744,462,912	116,969,374,375	129,104,000,000
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	70,041,296,881,247	69,927,725,392,902	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	696,876,131,678	761,561,388,172	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	48,649,477,555	55,366,610,000	
+ 재무상태표, 보험 - 별도	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	0	0	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	188,087,704,767	217,512,296,022	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	2,408,390,216	2,685,577,475	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타수취채권	338,993,126,804	314,615,920,282	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	439,905,238,204	439,919,143,374	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	9,361,964,961,268	9,302,947,931,038	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         위험회피목적파생상품자산	4,124,881,229	371,605,611	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	6,242,959,949,990	6,243,264,962,873	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	1,469,358,001,572	1,406,073,520,618	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	0	5,642,359	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	157,455,101,889	134,173,509,323	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	15,307,762,804	15,489,313,465	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계및종속기업투자주식	28,671,956,009	28,671,956,009	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	1,727,314,694	1,684,927,821	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	137,643,607,691	136,340,429,760	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	279,347,245,432	305,825,042,558	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	55,974,679,967	56,314,083,488	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	85,828,123,071	23,836,371,389	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	5,168,429,062,365	5,158,290,590,588	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	174,553,995,000	174,553,995,000	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	4,908,046,944,294	4,959,900,224,199	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립예정액	69,190,922,484	87,039,569,382	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	48,155,282	1,035,704,482	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 환입 예정액	-22,080,860	-987,549,200	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	2,488,079,095,683	2,401,039,526,301	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과 부채총계	9,361,964,961,268	9,302,947,931,038	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	38,246,808,516	39,650,197,438	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	8,981,487,625	3,862,435,982	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	533,262,443,154	497,604,426,924	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            위험회피목적파생상품부채	48,090,234,257	75,677,142,667	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	3,259,210,121,240	3,262,977,164,442	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	56,044,194,301	56,068,621,318	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	4,193,535,898,903	4,144,657,340,450	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	81,325,226,172	75,883,133,261	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	116,625,676,373	96,400,692,284	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	32,052,223,377	28,198,512,229	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	19,112,483,888	8,335,013,905	
+ 재무상태표, 보험 - 별도	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	585,000,000	0	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및상각후원가측정예치금	1,452,013,000,000	1,528,871,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	3,945,885,000,000	3,931,915,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익공정가치측정유가증권	36,968,359,000,000	37,647,435,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00137517_udf_BS_202391516437110OfAssetsAbstract	         상각후원가측정대출채권및수취채권	3,356,648,000,000	3,954,379,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	60,171,813,000,000	59,617,796,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	126,441,000,000	82,404,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	110,979,000,000	117,522,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익공정가치측정금융자산	12,903,089,000,000	11,579,983,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	170,382,000,000	209,378,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentAccountedForUsingEquityMethod	         관계기업에대한투자자산	339,581,000,000	274,581,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	14,026,000,000	14,185,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	15,703,000,000	7,945,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	63,530,000,000	67,924,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	0	16,334,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	637,611,000,000	107,668,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         리스사용권자산	67,566,000,000	77,272,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	905,000,000	1,461,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	820,023,000,000	820,023,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	0	299,452,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-2,219,352,000,000	-1,474,062,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	6,151,591,000,000	7,062,568,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	578,274,000,000	578,274,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	6,971,741,000,000	6,837,420,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	60,171,813,000,000	59,617,796,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-1,266,000,000	-362,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BondsIssued	            사채	798,283,000,000	299,487,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	0	79,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	1,178,555,000,000	1,264,214,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	509,029,000,000	501,592,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	49,760,283,000,000	48,419,650,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	801,065,000,000	1,332,468,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	66,956,000,000	77,399,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	54,020,222,000,000	52,555,228,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	686,185,000,000	461,215,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	31,256,000,000	31,270,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	79,745,000,000	70,158,000,000	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	3,472,000,000	0	
+ 재무상태표, 보험 - 별도	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	106,659,000,000	98,058,000,000	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	19,743,556,271,204	18,665,112,376,272	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	244,211,350,080	205,596,755,764	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	42,094,422,954	64,027,663,619	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	281,369,167,899	225,487,752,513	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	23,152,071,414	18,628,464,981	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	1,635,150,272,686	1,561,787,775,796	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	11,410,001,991,224	10,879,498,369,625	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	5,855,252,592,305	5,453,511,514,294	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	33,733,246,646	37,486,606,521	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	82,734,337,885	84,468,373,984	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자자산-원가법	33,100,000,000	33,100,000,000	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	7,179,534,039	904,418,188	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	87,912,823,553	92,711,448,986	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	7,664,460,519	7,903,232,001	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	1,001,052,586,462	1,001,052,586,462	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-364,989,673,363	-221,166,432,257	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	641,411,332,787	704,982,724,424	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	15,533,680,000	15,533,680,000	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	-10,185,260,312	-90,437,109,781	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	6,336,633,809	6,336,633,809	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	19,743,556,271,204	18,665,112,376,272	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-1,096,453,441	-398,355,309	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	639,391,412,275	489,682,573,839	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	47,663,392,729	11,950,103,551	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	0	59,278,100,136	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	18,224,758,131,261	17,214,044,405,633	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	935,306,277	920,110,157	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	19,102,144,938,417	17,960,129,651,848	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	69,557,015,646	67,244,154,691	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	6,208,191,848	4,057,093,893	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	15,426,257,697	30,970,606,673	
+ 재무상태표, 보험 - 별도	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	99,301,684,125	82,380,858,584	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	17,305,647,806,361	17,764,249,825,659	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	219,846,821,526	140,025,130,210	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	7,082,786,506	0	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	            위험회피목적파생상품자산	7,082,786,506	0	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	2,672,146,188,635	2,788,641,107,364	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	            상각후원가측정대출채권	1,373,611,087,247	1,461,305,883,686	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	            상각후원가측정기타금융자산	271,995,300,740	278,016,787,806	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	            상각후원가측정유가증권	1,026,539,800,648	1,049,318,435,872	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	9,514,038,103,047	9,306,652,633,706	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권	9,514,038,103,047	9,306,652,633,706	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	4,739,332,765,703	5,340,155,081,429	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정유가증권	4,739,332,765,703	5,340,155,081,429	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	16,979,327,380	21,337,212,914	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	61,629,125,739	63,333,367,381	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	37,552,219,585	58,063,231,178	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	37,040,468,240	43,331,985,911	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	0	2,710,075,566	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-54,740,011,779	-54,740,011,779	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	535,419,977,574	535,416,718,710	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	240,264,264,880	240,264,264,880	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-1,281,979,836,839	-1,160,862,309,005	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	-101,658,303,863	61,317,091,424	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	498,325,645,000	498,325,645,000	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	-38,948,342,699	2,912,783,618	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         부채및자본총계	17,305,647,806,361	17,764,249,825,659	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-499,227,799	0	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	387,202,531,487	405,932,612,494	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BondsIssued	               사채	387,202,531,487	405,932,612,494	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	123,998,618,108	303,629,749,632	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	               위험회피목적파생상품부채	123,998,618,108	303,629,749,632	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	97,798,658,323	101,318,550,500	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	16,732,169,038,289	16,838,419,630,703	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	17,407,306,110,224	17,702,932,734,235	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	13,355,132,820	10,544,109,718	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	33,634,949,988	32,787,113,070	
+ 재무상태표, 보험 - 별도	[null]	케이디비생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	19,646,409,008	10,300,968,118	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	905,416,000,000	964,985,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	998,197,000,000	1,092,732,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	697,298,000,000	712,253,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	35,815,391,000,000	33,717,436,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	7,491,000,000	7,344,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	4,911,000,000	26,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	23,310,027,000,000	21,575,283,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	8,955,471,000,000	8,505,252,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	146,932,000,000	175,765,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	41,068,000,000	41,235,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자주식	221,616,000,000	149,839,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialAssets	         기타금융자산	373,951,000,000	357,727,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	86,793,000,000	70,197,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	53,170,000,000	56,558,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	6,146,000,000	5,721,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	6,904,000,000	2,519,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	816,288,000,000	816,288,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	49,800,000,000	49,800,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-28,841,000,000	363,125,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	4,280,352,000,000	4,537,158,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	162,015,000,000	162,015,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	3,281,090,000,000	3,145,930,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	35,815,391,000,000	33,717,436,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BondsIssued	            사채	199,926,000,000	199,852,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	834,905,000,000	881,544,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	79,746,000,000	121,188,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	29,308,480,000,000	27,209,738,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	31,535,039,000,000	29,180,278,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	1,046,162,000,000	696,036,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	30,699,000,000	40,695,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	19,799,000,000	19,278,000,000	
+ 재무상태표, 보험 - 별도	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	15,322,000,000	11,947,000,000	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_DueFromBanksAtAmortisedCost	         예치금	196,987,276,974	239,868,974,674	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	13,447,230,828,789	12,926,721,576,165	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	286,790,027,537	333,875,405,488	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	48,336,256,634	45,363,276,574	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	2,075,870,671,486	2,528,450,640,920	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	5,632,067,989,687	4,649,708,528,621	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	2,606,336,168,613	2,540,027,006,633	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	39,151,911,151	29,658,193,823	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsOtherThanGoodwill	         무형자산	29,200,424,290	36,996,286,081	46,174,000,000
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	123,742,545,700	66,770,717,483	90,131,000,000
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자자산	219,133,170,080	220,936,784,433	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	4,723,366,320	4,194,661,100	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherReceivables	         기타수취채권	154,011,222,949	141,577,163,259	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	48,466,315,363	106,289,259,701	96,559,000,000
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,941,503,636,864	1,977,661,810,967	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	40,909,845,141	5,342,866,408	5,865,000,000
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-134,858,064,364	-134,858,064,364	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	139,151,979,513	139,151,979,513	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	808,213,081,811	808,179,653,912	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	191,488,637,944	199,184,322,260	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	3,583,103,171,819	3,453,613,968,312	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	97,410,515,500	97,410,515,500	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	2,481,697,021,415	2,344,545,561,491	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립(환입)예정액	51,927,615,300	21,297,943,142	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	31,650,146,160	22,202,257,744	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	-9,012,733,072	9,447,888,416	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	93,396,438,012	102,014,790,420	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립(환입)예정액	-8,044,590,172	-8,618,352,408	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	1,399,845,915,548	1,378,547,972,406	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	13,447,230,828,789	12,926,721,576,165	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	50,732,837,884	33,280,091,152	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	430,204,821,656	333,432,871,220	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	22,369,700,726	12,240,563,256	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	64,386,328,352	17,020,428,131	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	2,430,865,446	385,087,487	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	9,055,869,203,497	8,908,074,657,809	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	9,864,127,656,970	9,473,107,607,853	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	130,737,312,079	63,989,429,699	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	2,519,184,150	288,657,281	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	46,210,761,486	40,965,461,535	
+ 재무상태표, 보험 - 별도	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	58,666,641,694	63,430,360,283	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00459844_LoanAssetsAtAmortisedCostOfAssetsAbstract	         상각후원가측정대출채권	2,596,846,595,869	2,736,150,859,721	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00459844_LoanAssetsAtFairValueThroughOtherComprehensiveIncomeOfAssetsAbstract	         기타포괄손익-공정가치측정대출채권	126,367,655	690,658,746	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	entity00459844_udf_BS_2024412163632392OfAssetsAbstract	         상각후원가측정기타금융자산	330,758,457,725	307,567,071,916	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	17,984,860,665,317	18,214,781,856,971	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	673,387,813,591	1,173,764,758,762	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	17,481,035,956	24,676,032,700	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	414,866,751,496	433,990,381,736	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	13,398,855,515	14,315,229,663	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정유가증권	3,922,893,007,535	4,071,331,556,717	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정유가증권	6,885,719,080,932	7,513,375,390,128	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	3,014,467,804,425	1,812,498,032,929	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	20,265,672,332	25,874,797,515	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	69,937,686,649	70,827,210,541	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         종속기업투자주식	770,426,772	764,900,468	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	1,846,777,597	640,466,908	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	10,874,818,078	12,493,109,021	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	5,130,731,521	7,382,389,804	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	6,088,781,669	8,439,009,696	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-36,770,700	-36,770,700	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	20,485,935,692	20,485,935,692	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	99,766,420,000	99,766,420,000	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-628,883,242,379	-789,339,611,849	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	556,825,750,358	486,690,638,351	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	1,530,132,470,000	1,530,132,470,000	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	-464,639,062,255	-374,317,804,792	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	17,984,860,665,317	18,214,781,856,971	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-1,394,459,040	-1,394,459,040	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	725,354,635,466	1,180,028,785,541	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	180,248,919,947	524,651,455,738	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	8,529,890,866,248	8,473,220,108,357	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	7,910,592,935,352	7,468,076,370,536	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	6,422,934,479	8,967,334,504	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	17,428,034,914,959	17,728,091,218,620	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	51,417,976,843	59,745,245,405	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	12,496,699,367	4,569,251,866	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	6,829,224,159	7,186,338,812	
+ 재무상태표, 보험 - 별도	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	6,175,182,138	3,040,786,901	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	127,199,674,000,000	122,135,033,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	1,138,588,000,000	1,337,045,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	195,421,000,000	214,547,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	50,009,000,000	0	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	543,160,000,000	581,984,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	27,477,086,000,000	29,034,491,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	            상각후원가측정대출채권	14,978,378,000,000	15,362,121,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	            상각후원가측정기타금융자산	1,827,033,000,000	2,129,726,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	            상각후원가측정유가증권	10,671,675,000,000	11,542,644,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	49,717,845,000,000	45,320,455,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	33,271,737,000,000	31,134,351,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	195,014,000,000	216,853,000,000	218,445,000,000
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	1,410,404,000,000	1,450,699,000,000	2,000,113,000,000
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자자산	12,026,567,000,000	11,749,529,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	59,269,000,000	44,098,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	878,252,000,000	834,230,000,000	820,963,000,000
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	15,434,000,000	18,808,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	186,377,000,000	171,363,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	34,511,000,000	26,580,000,000	24,951,000,000
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	3,068,453,000,000	1,096,827,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타자본구성요소	-2,230,603,000,000	-1,362,643,000,000	872,977,000,000
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AdditionalPaidinCapital	            기타불입자본	-621,415,000,000	-628,307,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	11,713,616,000,000	10,335,004,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	4,342,650,000,000	4,342,650,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	7,154,531,000,000	6,886,477,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과 부채 총계	127,199,674,000,000	122,135,033,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-21,598,000,000	18,198,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	3,104,006,000,000	3,228,081,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	0	148,415,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	976,979,000,000	1,118,136,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	101,157,820,000,000	97,152,188,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	9,343,674,000,000	9,258,889,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	115,486,058,000,000	111,800,029,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	733,817,000,000	775,315,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	98,469,000,000	22,104,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	52,997,000,000	44,563,000,000	
+ 재무상태표, 보험 - 별도	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	39,894,000,000	34,140,000,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	20,880,369,571,000	19,752,680,295,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	280,461,837,000	280,689,279,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	24,535,643,000	3,645,691,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	103,672,036,000	134,937,272,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	1,491,164,863,000	1,492,963,489,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	12,958,072,992,000	12,242,335,765,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	4,491,122,109,000	4,376,802,391,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산		0	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	64,489,595,000	40,799,201,000	43,664,588,000
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	120,432,218,000	122,706,797,000	20,005,460,000
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자자산-원가법	524,830,667,000	319,191,433,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	19,400,687,000	20,967,878,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	264,605,779,000	259,170,713,000	262,507,100,000
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	7,155,832,000	18,973,479,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	474,434,198,000	368,138,193,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	55,991,115,000	71,358,714,000	105,025,789,000
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-5,455,261,000	-5,455,261,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	70,497,342,000	68,987,098,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	234,105,435,000	234,105,435,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-959,580,000,000	-633,632,125,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	3,040,657,030,000	3,079,385,890,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	773,694,575,000	773,694,575,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	2,927,394,939,000	2,641,686,168,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립(환입)예정액	23,778,992,000	28,118,124,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	23,470,312,000	23,535,768,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	2,537,600,000	-65,456,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	2,034,261,607,000	1,790,004,912,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립(환입)예정액	215,165,221,000	244,256,695,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금	274,785,312,000	246,667,188,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	20,880,369,571,000	19,752,680,295,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	1,097,063,448,000	598,330,413,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	346,107,482,000	364,825,205,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	281,627,693,000	266,839,341,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	15,821,440,667,000	15,197,574,470,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	73,022,782,000	72,270,943,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	55,521,397,000	70,862,942,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	17,839,712,541,000	16,673,294,405,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	145,619,847,000	84,970,304,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	10,336,900,000	9,732,096,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	6,998,824,000	6,571,802,000	
+ 재무상태표, 보험 - 별도	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	1,973,501,000	1,316,889,000	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	49,960,383,289,635	47,977,678,781,769	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	         현금및현금성자산	985,303,902,843	1,357,812,207,361	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	0	62,755,412,151	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	45,501,962,168	44,249,598,255	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtAmortisedCost	         상각후원가측정금융자산	10,210,981,927,532	11,544,378,935,448	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	25,577,228,319,045	22,671,404,879,625	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	9,713,012,024,762	9,338,046,174,746	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsOtherThanGoodwill	         무형자산	96,297,930,181	115,337,835,424	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	348,523,255,705	353,818,931,895	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자주식	331,922,040,076	291,443,449,138	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners	         매각예정자산	0	15,599,437,173	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	34,558,960,641	15,349,975,793	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	889,434,969,920	902,437,340,287	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedAssetsDefinedBenefitPlan	         순확정급여자산	63,484,483,578	74,249,144,448	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	1,614,639,544,447	1,137,166,210,466	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	49,493,968,737	53,629,249,559	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalAdjustments	            자본조정	-67,686,436,939	-67,686,436,939	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CapitalSurplus	            자본잉여금	113,152,050,937	113,152,050,937	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-3,310,923,762,404	-2,554,393,487,321	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	4,804,933,883,827	4,927,149,053,410	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	44,700,000,000	44,700,000,000	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금(결손금)	8,025,692,032,233	7,391,376,926,733	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립(환입)예정액	32,941,209,199	43,977,363,246	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	123,341,883,068	88,592,981,686	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	-3,843,881,715	34,748,901,382	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	4,018,336,788,737	3,422,424,926,365	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립(환입)예정액	31,146,216,704	595,911,862,372	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금	1,330,517,535,210	1,286,540,171,964	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	49,960,383,289,635	47,977,678,781,769	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	3,345,134,710,655	2,546,753,477,916	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxLiabilities	            당기법인세부채	54,503,762,288	0	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxLiabilities	            이연법인세부채	558,771,256,263	739,290,033,812	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	544,289,314,366	749,404,756,796	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정금융부채	62,194,023,764	78,482,118,931	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	36,290,879,870,656	34,801,941,698,072	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	3,879,585,512,983	3,521,201,244,196	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	51,016,219,198	55,602,619,843	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	45,155,449,405,808	43,050,529,728,359	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	361,943,134,035	551,422,425,855	
+ 재무상태표, 보험 - 별도	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherProvisions	            충당부채	7,131,601,600	6,431,352,938	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	352,566,390,502	649,899,905,199	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_DueFromBanksAtAmortisedCost	            상각후원가측정예치금	159,779,992,726	113,428,984,742	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CashAndCashEquivalents	            현금및현금성자산	192,786,397,776	536,470,920,457	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	3,569,070,858,661	3,614,068,233,969	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타금융자산	160,357,698,103	162,254,737,471	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SecuritiesAtAmortisedCost	         상각후원가측정유가증권	23,310,218,381	89,395,233,201	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	23,264,363,522,591	23,003,967,054,099	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	65,319,762,882	64,423,781,281	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	151,093,540,959	127,203,971,794	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssets	         파생상품자산	10,117,953,292	14,645,405,912	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	12,243,419,532,329	11,709,049,860,377	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	5,201,717,296,533	5,121,534,841,029	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	113,361,929,426	98,538,583,038	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	593,338,914,124	595,241,068,230	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates	         관계종속기업투자	482,748,804,614	460,176,281,646	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	3,264,868,472	425,539,906	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	291,344,277,378	294,273,751,297	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	3,331,476,935	2,835,859,749	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_ElementsOfOtherStockholdersEquity	            기타자본구성요소	-629,740,646,058	-421,112,448,184	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	49,649,760,000	49,649,760,000	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AdditionalPaidinCapital	            기타불입자본	298,226,576,645	298,226,576,645	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	847,713,040,087	924,952,158,293	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	80,119,740,000	80,119,740,000	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	1,049,457,609,500	918,068,529,832	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	23,264,363,522,591	23,003,967,054,099	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_PolicyholdersEquityAdjustment	            계약자지분조정	-9,124,891,089	-4,682,203,862	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Borrowings	            차입부채	518,704,242,976	319,215,716,506	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilities	            파생상품부채	196,840,965,579	323,677,319,824	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtAmortisedCost	            상각후원가측정기타금융부채	106,616,876,410	76,435,303,890	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	18,213,983,406,881	18,747,641,870,817	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentContractsLiabilities	            투자계약부채	3,216,374,918,470	2,440,605,864,605	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	22,416,650,482,504	22,079,014,895,806	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	51,936,588,199	48,163,540,773	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	23,970,504,964	17,107,997,098	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RecognisedLiabilitiesDefinedBenefitPlan	            순확정급여부채	843,452,386	154,037,550	
+ 재무상태표, 보험 - 별도	[null]	흥국생명보험	기타법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	96,504,417,728	110,695,448,605	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CashAndDuefromBanks	         현금및예치금	102,570,000,000	139,754,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_LoansAtAmortisedCost	         상각후원가측정대출채권	1,834,806,000,000	2,143,863,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_OtherFinancialAssetsAtAmortisedCost	         상각후원가측정기타금융자산	161,065,000,000	181,430,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Assets	         자산총계	13,116,928,000,000	12,894,689,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_CurrentTaxAssets	         당기법인세자산	22,780,000,000	24,462,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DeferredTaxAssets	         이연법인세자산	63,042,000,000	21,458,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialAssetsHeldForHedging	         위험회피목적파생상품자산	152,766,000,000	193,745,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughOtherComprehensiveIncome	         기타포괄손익-공정가치측정금융자산	7,186,305,000,000	6,509,074,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss	         당기손익-공정가치측정금융자산	3,019,743,000,000	3,117,411,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreAssets	         보험계약자산	9,517,000,000	11,002,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IntangibleAssetsAndGoodwill	         무형자산	41,298,000,000	50,241,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InvestmentProperty	         투자부동산	102,997,000,000	105,607,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialAssets	         기타자산	10,592,000,000	2,938,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_PropertyPlantAndEquipment	         유형자산	137,613,000,000	136,056,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreAssets	         재보험계약자산	260,504,000,000	243,714,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RightofuseAssets	         사용권자산	11,330,000,000	13,934,000,000	18,855,000,000
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_HybridBonds	            신종자본증권	411,263,000,000	212,000,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_AccumulatedOtherComprehensiveIncome	            기타포괄손익누계액	-569,875,000,000	-333,648,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Equity	            자본총계	880,228,000,000	772,659,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_IssuedCapital	            자본금	325,821,000,000	325,821,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_RetainedEarnings	            이익잉여금	713,019,000,000	568,486,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_CatastropheReserveToBeAdded	               비상위험준비금 적립예정액	4,131,000,000	4,369,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLoss	               대손준비금 기적립액	47,809,000,000	22,437,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_RegulatoryReserveForCreditLossToBeAddedReversed	               대손준비금 적립(환입)예정액	-7,613,000,000	25,372,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserve	               해약환급금준비금 기적립액	264,061,000,000	275,744,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	dart_SurrenderValueReserveToBeAdded	               해약환급금준비금 적립(환입)예정액	111,063,000,000	-11,682,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReserveForCatastrophe	               비상위험준비금 기적립액	40,345,000,000	35,976,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_EquityAndLiabilities	         자본과부채총계	13,116,928,000,000	12,894,689,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_BondsIssued	            사채	264,311,000,000	414,147,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_DerivativeFinancialLiabilitiesHeldForHedging	            위험회피목적파생상품부채	70,691,000,000	164,981,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_FinancialLiabilitiesAtFairValueThroughProfitOrLoss	            당기손익-공정가치측정금융부채	0	1,535,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_InsuranceContractsIssuedThatAreLiabilities	            보험계약부채	11,773,705,000,000	11,414,733,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_LeaseLiabilities	            리스부채	10,466,000,000	13,504,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Liabilities	            부채총계	12,236,700,000,000	12,122,030,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherFinancialLiabilities	            기타금융부채	105,022,000,000	97,195,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_OtherNonfinancialLiabilities	            기타부채	3,706,000,000	6,551,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_Provisions	            충당부채	8,784,000,000	9,121,000,000	
+ 재무상태표, 보험 - 별도	[000540]	흥국화재	유가증권시장상장법인	651	보험업	12	2025-09-30	3분기보고서	KRW	ifrs-full_ReinsuranceContractsHeldThatAreLiabilities	            재보험계약부채	15,000,000	263,000,000	
