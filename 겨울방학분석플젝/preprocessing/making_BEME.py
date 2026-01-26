@@ -85,10 +85,10 @@ monthly_df = df.merge(
 monthly_df['BEME'] = monthly_df['bookvalue'] / monthly_df['mkt_cap']
 
 # 정리 (필요한 컬럼만)
-monthly_df = monthly_df[['year_month', 'ticker', 'mkt_cap', 'bookvalue', 'BEME']]
+monthly_df = monthly_df[['year_month', 'ticker', 'mkt_cap', 'bookvalue', 'BEME', 'bv_year']]
 
 # 2021년~2025년 데이터만 추출
-monthly_df = monthly_df[(monthly_df['year_month'] >= '2021-01') & (monthly_df['year_month'] <= '2025-12')]
+monthly_df = monthly_df[(monthly_df['year_month'] >= '2021-07') & (monthly_df['year_month'] <= '2025-12')]
 
 print(f"\n=== monthly_df 기본 정보 ===")
 print(f"shape: {monthly_df.shape}")
@@ -100,3 +100,17 @@ print(monthly_df.isnull().sum())
 
 # print("\nCSV 저장 완료:")
 # print("- 겨울방학분석플젝/preprocessing/bookvalue.csv")
+
+# 2. 제외 키워드 설정
+exclude_keywords = [
+    '리츠', 'REITs', '지주', '홀딩스', '금융', 
+    '증권', '보험', '화재', '은행', '카드', '생명'
+]
+
+# 3. 제외 로직 적용
+# 종목명에 위 키워드가 하나라도 포함되면 제외
+filtered_df = df[~df['name'].str.contains('|'.join(exclude_keywords))]
+
+print(f"제외 전: {len(df)}개")
+print(f"제외 후: {len(filtered_df)}개")
+print(f"제거된 종목 수: {len(df) - len(filtered_df)}개")
