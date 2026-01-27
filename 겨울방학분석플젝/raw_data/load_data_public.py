@@ -16,7 +16,7 @@ def get_kospi_data(beginBasDt, endBasDt):
     while True:
         params = {
             "serviceKey": api_key,
-            "numOfRows": "10000",
+            "numOfRows": "1000",
             "pageNo": str(page_no),
             "resultType": "json",
             "beginBasDt": str(beginBasDt),
@@ -27,6 +27,8 @@ def get_kospi_data(beginBasDt, endBasDt):
         try:
             response = requests.get(url, params=params)
             response.raise_for_status()
+            print(f"Status: {response.status_code}")
+            print(f"Response: {response.text[:500]}")  # 응답 내용 일부 출력
             data = response.json()
 
             total_count = int(data['response']['body']['totalCount'])
@@ -70,26 +72,3 @@ if __name__ == "__main__":
     else:
         print("데이터를 가져오지 못했습니다.")
     '''
-
-
-
-url = "https://apis.data.go.kr/1160100/service/GetStockSecuritiesInfoService/getStockPriceInfo"
-
-load_dotenv()
-api_key = os.getenv('API_KEY')
-
-params = {
-            "serviceKey": api_key,
-            "numOfRows": "10000",
-            "pageNo": "1",
-            "resultType": "json",
-            "beginBasDt": "20190101",
-            "endBasDt": "20190131",
-            "mrktCls": "KOSPI"
-        }
-
-response = requests.get(url, params=params)
-response.raise_for_status()
-data = response.json()
-
-print(data)

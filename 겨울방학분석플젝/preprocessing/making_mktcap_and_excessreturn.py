@@ -93,7 +93,7 @@ df_monthly_excess_return = df_monthly_return.merge(df_rf[['month', 'rf_monthly']
 df_monthly_excess_return['excess_return'] = df_monthly_excess_return['monthly_return'] - df_monthly_excess_return['rf_monthly']
 
 # 필요한 컬럼만 유지
-df_monthly_excess_return = df_monthly_excess_return[['month', 'ticker', 'name', 'excess_return']]
+df_monthly_excess_return = df_monthly_excess_return[['month', 'ticker', 'name', 'monthly_return', 'rf_monthly', 'excess_return']]
 
 print(f"\n월별 초과수익률 (df_monthly_excess_return):")
 print(df_monthly_excess_return.shape)
