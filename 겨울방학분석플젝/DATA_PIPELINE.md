@@ -78,12 +78,24 @@
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  ┌────────────────────────┐  ┌────────────────────────┐        │
-│  │ cross_sectional_       │  │ check_with_table.py    │        │
-│  │ regression.py          │  │                        │        │
-│  │                        │  │ Size-BEME 10분위       │        │
-│  │ Fama-MacBeth 회귀      │  │ 더블소팅 매트릭스       │        │
-│  │ (lag 변수 사용)        │  │ SMB, HML 효과 확인     │        │
+│  │ cross_sectional_       │  │ cross_sectional_       │        │
+│  │ regression.py          │  │ regression_winsorized  │        │
+│  │                        │  │ .py                    │        │
+│  │ Fama-MacBeth 회귀      │  │                        │        │
+│  │ (lag 변수 사용)        │  │ Fama-MacBeth 회귀      │        │
+│  │                        │  │ + 월별 횡단면           │        │
+│  │                        │  │   윈저라이제이션        │        │
+│  │                        │  │ (lag_beta, lag_BEME    │        │
+│  │                        │  │  각 1%/99%)            │        │
 │  └────────────────────────┘  └────────────────────────┘        │
+│                                                                 │
+│  ┌────────────────────────┐                                     │
+│  │ check_with_table.py    │                                     │
+│  │                        │                                     │
+│  │ Size-BEME 10분위       │                                     │
+│  │ 더블소팅 매트릭스       │                                     │
+│  │ SMB, HML 효과 확인     │                                     │
+│  └────────────────────────┘                                     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -109,7 +121,8 @@ python 겨울방학분석플젝/preprocessing/making_BEME.py
 python 겨울방학분석플젝/final_monthly_panel_data/making_final.py
 
 # 6. 분석 실행
-python 겨울방학분석플젝/cross_sectional_regression.py
+python 겨울방학분석플젝/cross_sectional_regression.py           # 기본 (윈저라이제이션 없음)
+python 겨울방학분석플젝/cross_sectional_regression_winsorized.py # 윈저라이제이션 적용
 python 겨울방학분석플젝/check_with_table.py
 ```
 
@@ -142,7 +155,8 @@ python 겨울방학분석플젝/check_with_table.py
 | beta.csv | preprocessing/ | 월별 12개월 롤링 베타 |
 | monthly_BEME.csv | preprocessing/ | 월별 BEME (Book-to-Market Equity) |
 | final_panel.csv | final_monthly_panel_data/ | 최종 병합 패널 데이터 |
-| monthly_gamma_coefficients.csv | 겨울방학분석플젝/ | Fama-MacBeth 회귀 월별 계수 |
+| monthly_gamma_coefficients.csv | 겨울방학분석플젝/ | Fama-MacBeth 회귀 월별 계수 (기본) |
+| monthly_gamma_coefficients_winsorized.csv | 겨울방학분석플젝/ | Fama-MacBeth 회귀 월별 계수 (윈저라이제이션 적용) |
 
 ---
 
@@ -160,3 +174,22 @@ excess_return(t) = α + γ₁·beta(t-1) + γ₂·log(mkt_cap)(t-1) + γ₃·BEM
 ```
 
 - **Fama-MacBeth 방법**: 매월 횡단면 회귀 → γ 시계열 평균 및 t-통계량 계산
+
+---
+
+## 윈저라이제이션 설계 원칙
+
+윈저라이제이션은 `final_panel.csv` 생성 단계가 아닌 **분석 스크립트 내 월별 루프에서** 적용된다.
+
+**이유**:
+- 윈저라이제이션 기준(P1, P99)이 **각 월의 횡단면 분포**에서 결정되므로, 전처리 단계에서 일괄 적용하는 것은 원리적으로 불가
+- `final_panel.csv`는 `check_with_table.py`와 공유되므로, 분석 목적에 중립적인 원본 상태를 유지해야 함
+
+**적용 변수 및 기준** (`cross_sectional_regression_winsorized.py`):
+
+| 변수 | 윈저라이제이션 | 이유 |
+|------|-------------|------|
+| lag_beta | 1% / 99% | 롤링 베타 추정 오차로 인한 극단값 통제 |
+| lag_BEME | 1% / 99% | 시총 급락 시 폭등하는 회계 지표 특성 |
+| lag_log_mkt_cap | 미적용 | log 변환으로 극단값 영향 이미 완화 |
+| excess_return | 미적용 | 종속변수 윈저라이제이션은 OLS 추정량 편의 유발 가능 |
